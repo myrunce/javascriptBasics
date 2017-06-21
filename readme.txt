@@ -1,0 +1,1 @@
+This is a project I did using HTML/CSS. Our goal was to use the picture attached as guideline and copy it to the best of our ability.
